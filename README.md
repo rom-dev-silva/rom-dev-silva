@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Romulo
 
-<!--
-**rom-dev-silva/rom-dev-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudando Análise e Desenvolvimento de sistemas.
+- 💻 Dev. Front-end
 
-Here are some ideas to get you started:
+## Linguagens e Tecnologias :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="VS Code" alt="VS Code" height="30" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+  <img align="center" title="git" alt="git" height="30" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+</div>
+
+## Minhas Estatisticas :bar_chart:
+<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=shadow_red&include_all_commits=true">
